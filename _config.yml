@@ -1,2 +1,4 @@
 plugins:
   - jekyll-sitemap
+
+url: "https://yourname.github.io"
